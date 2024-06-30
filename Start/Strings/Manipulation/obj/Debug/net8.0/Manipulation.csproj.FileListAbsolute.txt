@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/bin/Debug/net8.0/Manipulation
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/bin/Debug/net8.0/Manipulation.deps.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/bin/Debug/net8.0/Manipulation.runtimeconfig.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/bin/Debug/net8.0/Manipulation.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/bin/Debug/net8.0/Manipulation.pdb
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/Manipulation.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/Manipulation.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/Manipulation.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/Manipulation.sourcelink.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/Manipulation.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/refint/Manipulation.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/Manipulation.pdb
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/Manipulation.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Manipulation/obj/Debug/net8.0/ref/Manipulation.dll

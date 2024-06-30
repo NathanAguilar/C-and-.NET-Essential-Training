@@ -1,0 +1,15 @@
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/bin/Debug/net8.0/Searching
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/bin/Debug/net8.0/Searching.deps.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/bin/Debug/net8.0/Searching.runtimeconfig.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/bin/Debug/net8.0/Searching.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/bin/Debug/net8.0/Searching.pdb
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/Searching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/Searching.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/Searching.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/Searching.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/Searching.sourcelink.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/Searching.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/refint/Searching.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/Searching.pdb
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/Searching.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Strings/Searching/obj/Debug/net8.0/ref/Searching.dll
