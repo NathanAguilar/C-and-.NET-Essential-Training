@@ -1,0 +1,14 @@
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect.deps.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect.runtimeconfig.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect.pdb
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/refint/GarbageCollect.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.pdb
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/GarbageCollect/obj/Debug/net8.0/ref/GarbageCollect.dll

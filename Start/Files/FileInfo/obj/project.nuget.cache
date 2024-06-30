@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBC53KrZQiY=",
+  "success": true,
+  "projectFilePath": "/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Files/FileInfo/FileInfo.csproj",
+  "expectedPackageFiles": [
+    "/Users/nathanaguilar/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/nathanaguilar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/nathanaguilar/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

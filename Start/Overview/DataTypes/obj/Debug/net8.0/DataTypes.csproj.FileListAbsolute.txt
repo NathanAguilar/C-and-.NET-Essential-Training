@@ -1,0 +1,14 @@
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes.deps.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes.runtimeconfig.json
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes.pdb
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfoInputs.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfo.cs
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/refint/DataTypes.dll
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.pdb
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.genruntimeconfig.cache
+/Users/nathanaguilar/Documents/8.Course Files/Ex_Files_C_and_NET_Essential_Training/Exercise Files/Start/Overview/DataTypes/obj/Debug/net8.0/ref/DataTypes.dll
